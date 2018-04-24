@@ -34,13 +34,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Data.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Data.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\DevExpress_Installations\DevExpress 14.1\Components\Bin\Framework\DevExpress.Data.v14.1.dll</HintPath>
+      
     </Reference>
-    <Reference Include="DevExpress.Xpf.Core.v14.1, Version=14.1.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Mvvm.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\projects\2014.1\Bin\Framework4\DevExpress.Xpf.Core.v14.1.dll</HintPath>
+      
+    </Reference>
+    <Reference Include="DevExpress.Xpf.Core.v14.1, Version=14.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
